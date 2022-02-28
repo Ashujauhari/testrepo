@@ -1,0 +1,3 @@
+com\cognizant\book\entity\Book.class
+com\cognizant\book\controller\BookController.class
+com\cognizant\book\BookServiceApplication.class
